@@ -21,6 +21,11 @@ class ViewController: UIViewController {
         //
         print("sdfdfdfsfd")
     }
+    func payMoney2(){
+        
+        //
+        print("sdfdfdfsfd")
+    }
 
 }
 

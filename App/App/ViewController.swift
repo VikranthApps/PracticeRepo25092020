@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     
     func payMoney(){
         
+        //
+        print("sdfdfdfsfd")
     }
 
 }
